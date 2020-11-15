@@ -1,1 +1,7 @@
 print('hoge')
+print('hoge')
+print('hoge')
+print('hoge')
+print('hoge')
+print('hoge')
+print('hoge')
