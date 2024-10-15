@@ -1,6 +1,6 @@
 # test_repository
 
-githubからいじってます
+githubからいじってました
 
 akdhfsafsdkl
 うぃ
